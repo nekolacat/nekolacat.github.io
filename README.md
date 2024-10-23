@@ -1,5 +1,3 @@
-# seja bem vindos ao meu repositorio!
-
 <h1>Projeto Android</h1>
 <a href="https://nekolacat.github.io/projeto-android/">Como surgiu o mascote do Android</a>
 <p>esse é um projeto que fiz pelo <a href="https://youtube.com/cursoemvideo" target="_blank">Curso Em Video</a></p>
