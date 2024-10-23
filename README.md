@@ -3,5 +3,5 @@
 </a>
 <p>esse é um projeto que fiz pelo <a href="https://youtube.com/cursoemvideo" target="_blank">Curso Em Video</a></p>
 
-<a href="https://nekolacat.github.io/site-em-pop-up/">Site em pop up</a>
+<a href="https://nekolacat.github.io/site-em-pop-up/"><h1>Site em pop up</h1></a>
 <p>um site simples que você pode abrir qualquer site em pop up</p>
