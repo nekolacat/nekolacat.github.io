@@ -78,7 +78,7 @@ body {
     border-radius: 10px;
     transition-duration: .5s;
     flex-wrap: nowrap;
-    display: flex;
+    display: inline-flex;
 }
 .meu:hover {
     background-color: #3b3b3b;
