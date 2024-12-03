@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 1100px){
+    body {
+        margin-top: 70px;
+        width: 98vw;
+        height: 85vh;
+    }
+    .perfil {
+        position: relative;
+        left: -260px;
+    }
+    .sites {
+        position: relative;
+        width: 400px;
+        top: -670px;
+        left: 250px;
+        height: 570px;
+    }
+    h1#site {
+        width: 450px;
+        top: -641px;
+        left: 250px;
+    }
+}
