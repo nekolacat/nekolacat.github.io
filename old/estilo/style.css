@@ -1,0 +1,112 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body, html {
+    background: linear-gradient(to top, black, #1a1a1a) fixed;
+    color: white;
+    font-family: "Manrope", sans-serif;
+    font-weight: 400;
+    margin-top: 5px;
+}
+
+.perfil {
+    margin: auto;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    background-image: linear-gradient(to bottom right, #ffffff27 50%, transparent);
+    border: 2px solid #fffefe91;
+    border-radius: 40px;
+}
+
+.perfil p {
+    padding: 5px;
+    line-height: 15px;
+}
+
+.avatar {
+    padding: 20px;
+    border-radius: 30px;
+    background-color: #00000077;
+    border: 2px solid #ffffff60;
+}
+
+.avatar h1 {
+    padding-top: 20px;
+}
+
+.avatar img {
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px #000000;
+}
+
+.redes {
+    padding: 20px;
+}
+
+.redes p {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.redes img {
+    width: 10%;
+}
+
+.sites {
+    margin: auto;
+    margin-top: -40px;
+    margin-bottom: 20px;
+    width: 350px;
+    padding: 35px;
+    background-image: linear-gradient(to bottom right, #ffffff27, transparent);
+    border-radius: 30px;
+    border: 2px solid #fffefe91;
+}
+
+ h1#site {
+    margin: auto;
+    width: 400px;
+    background-color: #00000077;
+    padding: 10px;
+    border-radius: 30px 30px 0px 0px;
+    text-align: center;
+    position: relative;
+    top: 29px;
+    border: 2px solid #fffefe91;
+}
+
+#pri {
+    padding-top: 60px;
+}
+
+.sites h2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.sites a {
+    color: white;
+    text-decoration: none;
+}
+
+.sites p {
+    padding-top: 20px;
+}
+
+.meu {
+    background-color: rgb(104, 104, 104);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.meu:hover {
+    background-color: #3b3b3b;
+    padding: 10px;
+    border-radius: 10px;
+}
