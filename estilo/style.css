@@ -13,7 +13,7 @@ body {
     font-weight: 400;
     justify-content: center;
 
-    background: url("img/fundo.webp") fixed no-repeat;
+    background: #1A152C url("img/background.webp") fixed no-repeat;
     background-size: cover;
     color: white;
 }
